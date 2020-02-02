@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
+using System.Linq;
+using CsvHelper;
 
 namespace TextFileChallenge.Model
 {
@@ -11,7 +14,7 @@ namespace TextFileChallenge.Model
 
 		public UserCsvRepository(string fullPath)
 		{
-			_csvFilePath = fullPath;
+			_csvFilePath = fullPath + @"\AdvancedDataSet.csv";
 
 			if (!File.Exists(_csvFilePath))
 				throw new IOException();
@@ -19,15 +22,20 @@ namespace TextFileChallenge.Model
 			_users = new Lazy<List<User>>(() =>
 			{
 				using (var reader = new StreamReader(_csvFilePath))
+				using (var csvReader = new CsvReader(reader, CultureInfo.InvariantCulture))
 				{
-					return (List<User>)
+					return csvReader.GetRecords<User>().ToList();
 				}
 			});
 		}
 
 		private void SaveUserList(List<User> users)
 		{
-			throw new NotImplementedException();
+			using (var writer = new StreamWriter(_csvFilePath))
+			using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+			{
+				csv.WriteRecords(users);
+			}
 		}
 
 		public IEnumerable<User> GetAllUsers()

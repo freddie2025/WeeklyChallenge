@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using TextFileChallenge.View;
 
 namespace TextFileChallenge
 {
@@ -13,8 +12,15 @@ namespace TextFileChallenge
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChallengeForm());
+            Application.SetCompatibleTextRenderingDefault(true);
+
+            var repository = new Model.UserCsvRepository(Application.StartupPath);
+            var view = new View.ChallengeForm();
+
+            // Poor Man's Dependency Injection/Pure Dependency Injection, Main() is the Composition Root.
+            var presenter = new Presenter.ChallengePresenter(view, repository);
+
+            Application.Run(view);
         }
     }
 }

@@ -7,4 +7,8 @@ Tim Corey's Weekly challenges to help keep your C# knowledge sharp.
 ## Text File Challenge
 [Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=2)  
 [Documentation](https://www.filepicker.io/api/file/tNFuMzNBTU6F7wHo2xYb)  
-[Resources](https://www.filepicker.io/api/file/EeA71hFfS6CQzpX1GlSZ)
+[Resources](https://www.filepicker.io/api/file/EeA71hFfS6CQzpX1GlSZ)  
+## Error Handling
+[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=3)  
+[Documentation](https://www.filepicker.io/api/file/ssLQNiDFRLuyaxv6Ir91)  
+[Resources](https://www.filepicker.io/api/file/RIDwPHzqRGe7b3O3rvXB)  
