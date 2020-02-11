@@ -1,4 +1,4 @@
-# Weekly Challange
+# Weekly Challenge
 Tim Corey's Weekly challenges to help keep your C# knowledge sharp.
 
 ## Foreach Challenge
