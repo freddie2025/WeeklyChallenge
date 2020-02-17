@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2050
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DapperDemoDB", "DapperDemoDB\DapperDemoDB.sqlproj", "{81B5F5DA-D8F7-456F-9F5C-45D3AAA2791A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormApp", "WinFormApp\WinFormApp.csproj", "{2E2BDB20-8771-41EE-AEAF-62C20EA56C70}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0BA17008-ADC8-4080-B499-69101E8F176E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperLibrary", "HelperLibrary\HelperLibrary.csproj", "{9A0C530B-2089-4AF3-88AD-ECF0B140A11F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{0BA17008-ADC8-4080-B499-69101E8F176E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BA17008-ADC8-4080-B499-69101E8F176E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BA17008-ADC8-4080-B499-69101E8F176E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0C530B-2089-4AF3-88AD-ECF0B140A11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0C530B-2089-4AF3-88AD-ECF0B140A11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0C530B-2089-4AF3-88AD-ECF0B140A11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0C530B-2089-4AF3-88AD-ECF0B140A11F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

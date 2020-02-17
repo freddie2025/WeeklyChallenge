@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Dapper;
+using static HelperLibrary.BusinessLogic;
 
 namespace ConsoleApp
 {
@@ -15,7 +8,6 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             string actionToTake = "";
-            string connectionString = ConfigurationManager.ConnectionStrings["DapperDemoDB"].ConnectionString;
 
             do
             {
@@ -25,13 +17,10 @@ namespace ConsoleApp
                 switch (actionToTake.ToLower())
                 {
                     case "display":
-                        using (IDbConnection cnn = new SqlConnection(connectionString))
-                        {
-                            var records = cnn.Query<UserModel>("spSystemUser_Get", commandType: CommandType.StoredProcedure).ToList();
+                        var records = GetAllUsers();
 
-                            Console.WriteLine();
-                            records.ForEach(x => Console.WriteLine($"{ x.FirstName } { x.LastName }"));
-                        }
+                        Console.WriteLine();
+                        records.ForEach(x => Console.WriteLine(x.FullName));
                         Console.WriteLine();
                         break;
                     case "add":
@@ -41,16 +30,8 @@ namespace ConsoleApp
                         Console.Write("What is the last name: ");
                         string lastName = Console.ReadLine();
 
-                        using (IDbConnection cnn = new SqlConnection(connectionString))
-                        {
-                            var p = new
-                            {
-                                FirstName = firstName,
-                                LastName = lastName
-                            };
+                        CreateUser(firstName, lastName);
 
-                            cnn.Execute("dbo.spSystemUser_Create", p, commandType: CommandType.StoredProcedure);
-                        }
                         Console.WriteLine();
                         break;
                     default:
