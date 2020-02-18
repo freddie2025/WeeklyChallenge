@@ -16,3 +16,7 @@ Tim Corey's Weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=4)  
 [Documentation](https://www.filepicker.io/api/file/52H6wcdISjmyqg4gQfqD)  
 [Resources](https://www.filepicker.io/api/file/CzbkVbc7QXqB56CGQEWx)  
+## Config File Challenge
+[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=5)  
+[Documentation](https://www.filepicker.io/api/file/zbEIqxiKTxOVP4dWV0EI)  
+[Resources](https://www.filepicker.io/api/file/8C9j2ecdQ5G2m4KorcSl)  
