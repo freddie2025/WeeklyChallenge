@@ -1,5 +1,5 @@
 # Weekly Challenge
-Tim Corey's Weekly challenges to help keep your C# knowledge sharp.
+Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 
 ## Foreach Challenge
 [Requirement Video](https://www.youtube.com/watch?v=pxdwwgIja5Q&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=1)  
@@ -20,3 +20,6 @@ Tim Corey's Weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=5)  
 [Documentation](https://www.filepicker.io/api/file/zbEIqxiKTxOVP4dWV0EI)  
 [Resources](https://www.filepicker.io/api/file/8C9j2ecdQ5G2m4KorcSl)  
+## DateTime Challenge
+[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=6)  
+[Documentation](https://www.filepicker.io/api/file/UQv5OheLTRafu3S5pjxp)  
