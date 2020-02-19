@@ -23,3 +23,7 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 ## DateTime Challenge
 [Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=6)  
 [Documentation](https://www.filepicker.io/api/file/UQv5OheLTRafu3S5pjxp)  
+## Pill Reminder Challenge
+[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=7)  
+[Documentation](https://www.filepicker.io/api/file/5ZdwDzOkR2G0nBEQvpwY)  
+[Resources](https://www.filepicker.io/api/file/vgEEVRRqScOhbY8l1jwx)  
