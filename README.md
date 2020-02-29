@@ -62,7 +62,7 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.youtube.com/watch?v=xrPb4icV4s8&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=46)  
 [Documentation](https://www.filepicker.io/api/file/2OVeXhmtQOimEKKJG3Gh)  
 ## Git Branches Challenge
-[Requirement Video](https://www.youtube.com/watch?v=xrPb4icV4s8&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=47)  
+[Requirement Video](https://www.youtube.com/watch?v=GKY0dCB00yo&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=47)  
 [Documentation](https://www.filepicker.io/api/file/asYGiOWWQoW6XurJ7YYs)  
 ## Web File Uploads
 ## Azure DevOps Challenge
