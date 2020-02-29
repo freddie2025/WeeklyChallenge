@@ -59,7 +59,7 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 ## Searching for Data Challenge
 ## Extension Methods Challenge
 ## ASP.NET Core with Docker Challenge
-[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=46)  
+[Requirement Video](https://www.youtube.com/watch?v=xrPb4icV4s8&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=46)  
 [Documentation](https://www.filepicker.io/api/file/2OVeXhmtQOimEKKJG3Gh)  
 ## Git Branches Challenge
 ## Web File Uploads
