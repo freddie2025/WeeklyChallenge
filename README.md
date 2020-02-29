@@ -27,3 +27,43 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=7)  
 [Documentation](https://www.filepicker.io/api/file/5ZdwDzOkR2G0nBEQvpwY)  
 [Resources](https://www.filepicker.io/api/file/vgEEVRRqScOhbY8l1jwx)  
+## Web Deployment Challenge
+## Database Design Challenge
+## Performance Evaluation Challenge
+## FizzBuzz Challenge
+## Palindrome Challenge
+## Prime Number Challenge
+## Correct Change Challenge
+## API Usage Challenge
+## Word Count Challenge
+## Advanced Parameters Challenge
+## Custom Rules Challenge
+## Form Communication Challenge
+## Copying Objects Challenge
+## Birthday Calculation Challenge
+## File Management Challenge
+## Truck Rental Challenge
+## Generics Challenge
+## Form Improvement Challenge
+## List Modification Challenge
+## Caching Data Challenge
+## MongoDB Challenge
+## Unit Test Challenge
+## Razor Pages Challenge
+## Calculation Challenge
+## LINQ Challenge
+## Razor Pages Form Challenge
+## Publishing Web Apps Challenge
+## String Replacement Challenge
+## Image Manipulation Challenge
+## Searching for Data Challenge
+## Extension Methods Challenge
+## ASP.NET Core with Docker Challenge
+[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=46)  
+[Documentation](https://www.filepicker.io/api/file/2OVeXhmtQOimEKKJG3Gh)  
+## Git Branches Challenge
+## Web File Uploads
+## Azure DevOps Challenge
+## Bulk File Renaming Challenge
+## .NET Command Line Challenge
+## Sample Data Challenge
