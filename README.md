@@ -48,6 +48,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 ## List Modification Challenge
 ## Caching Data Challenge
 ## MongoDB Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10175507)  
+[Documentation](https://www.filepicker.io/api/file/eTUWm6b2SNWRPw97hsge)  
 ## Unit Test Challenge
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10260165)  
 [Documentation](https://www.filepicker.io/api/file/28oKcMjTQmy0ncF34nkp)  
