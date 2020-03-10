@@ -8,7 +8,7 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=2)  
 [Documentation](https://www.filepicker.io/api/file/tNFuMzNBTU6F7wHo2xYb)  
 [Resources](https://www.filepicker.io/api/file/EeA71hFfS6CQzpX1GlSZ)  
-## Error Handling
+## Error Handling Challenge
 [Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=3)  
 [Documentation](https://www.filepicker.io/api/file/ssLQNiDFRLuyaxv6Ir91)  
 [Resources](https://www.filepicker.io/api/file/RIDwPHzqRGe7b3O3rvXB)  
@@ -47,6 +47,9 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 ## Form Improvement Challenge
 ## List Modification Challenge
 ## Caching Data Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/10012332)  
+[Documentation](https://www.filepicker.io/api/file/27DDSqYARXSU2AYSKFrb)  
+[Resources](https://www.filepicker.io/api/file/SoTbpkSATMeVNfKjl53a)  
 ## MongoDB Challenge
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10175507)  
 [Documentation](https://www.filepicker.io/api/file/eTUWm6b2SNWRPw97hsge)  
