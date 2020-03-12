@@ -1,0 +1,22 @@
+﻿@page
+@model WebUI.Pages.SayHiModel
+@{
+    ViewData["Title"] = "SayHi";
+}
+
+<h1>Say Hi Demo Page</h1>
+
+@if (string.IsNullOrWhiteSpace(Model.Person.FullName) == false)
+{ 
+    <h1>Hello @Model.Person.FullName</h1>
+}
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Person.FullName"></label>
+        <input asp-for="Person.FullName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Say Hi</button>
+    </div>
+</form>

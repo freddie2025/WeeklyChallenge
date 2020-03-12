@@ -58,6 +58,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Documentation](https://www.filepicker.io/api/file/28oKcMjTQmy0ncF34nkp)  
 [Resources](https://www.filepicker.io/api/file/6hNVdwdwSxCPWva1qIqj)  
 ## Razor Pages Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10337956)  
+[Documentation](https://www.filepicker.io/api/file/Rg8VCqeRqGOCXFs2UvdA)  
 ## Calculation Challenge
 ## LINQ Challenge
 ## Razor Pages Form Challenge
