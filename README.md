@@ -61,6 +61,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10337956)  
 [Documentation](https://www.filepicker.io/api/file/Rg8VCqeRqGOCXFs2UvdA)  
 ## Calculation Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10414088)  
+[Documentation](https://www.filepicker.io/api/file/qKRfgG1SRCGTd2V8MV2w)  
 ## LINQ Challenge
 ## Razor Pages Form Challenge
 ## Publishing Web Apps Challenge
