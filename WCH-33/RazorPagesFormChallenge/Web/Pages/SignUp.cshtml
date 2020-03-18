@@ -1,0 +1,24 @@
+﻿@page
+@model Web.Pages.SignUpModel
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<h1>Sign Up Form</h1>
+
+<form method="post">
+    <input asp-for="SignUpData.FirstName" type="text" placeholder="First Name" />
+    <input asp-for="SignUpData.LastName" type="text" placeholder="Last Name" />
+    <input asp-for="SignUpData.EmailAddress" type="email" placeholder="Email Address" />
+    <input asp-for="SignUpData.Password" type="password" placeholder="Password" />
+    <button type="submit">Sign Up</button>
+</form>
+
+@if (Model.Mode.ToLower() == "light")
+{ 
+    <h2>You are in Light Mode</h2>
+}
+else
+{ 
+    <h2>You are in Dark Mode</h2>
+}
