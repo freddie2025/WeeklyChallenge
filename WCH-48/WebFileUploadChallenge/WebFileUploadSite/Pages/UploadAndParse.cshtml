@@ -1,0 +1,15 @@
+﻿@page
+@model WebFileUploadSite.Pages.UploadAndParseModel
+@{
+    ViewData["Title"] = "UploadAndParse";
+}
+
+<h1>Upload and Parse</h1>
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="newFile">Upload File</label>
+        <input type="file" class="form-control-file" id="newFile" asp-for="UploadedFile" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

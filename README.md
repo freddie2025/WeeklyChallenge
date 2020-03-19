@@ -2,29 +2,29 @@
 Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 
 ## Foreach Challenge
-[Requirement Video](https://www.youtube.com/watch?v=pxdwwgIja5Q&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=1)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/6877596)  
 [Documentation](https://www.filepicker.io/api/file/9C4WFKdiSfOtScOOwrFZ)
 ## Text File Challenge
-[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=2)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/6877618)  
 [Documentation](https://www.filepicker.io/api/file/tNFuMzNBTU6F7wHo2xYb)  
 [Resources](https://www.filepicker.io/api/file/EeA71hFfS6CQzpX1GlSZ)  
 ## Error Handling Challenge
-[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=3)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/6877624)  
 [Documentation](https://www.filepicker.io/api/file/ssLQNiDFRLuyaxv6Ir91)  
 [Resources](https://www.filepicker.io/api/file/RIDwPHzqRGe7b3O3rvXB)  
 ## Refactoring Challenge
-[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=4)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/6877632)  
 [Documentation](https://www.filepicker.io/api/file/52H6wcdISjmyqg4gQfqD)  
 [Resources](https://www.filepicker.io/api/file/CzbkVbc7QXqB56CGQEWx)  
 ## Config File Challenge
-[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=5)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/6912774)  
 [Documentation](https://www.filepicker.io/api/file/zbEIqxiKTxOVP4dWV0EI)  
 [Resources](https://www.filepicker.io/api/file/8C9j2ecdQ5G2m4KorcSl)  
 ## DateTime Challenge
-[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=6)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/6992302)  
 [Documentation](https://www.filepicker.io/api/file/UQv5OheLTRafu3S5pjxp)  
 ## Pill Reminder Challenge
-[Requirement Video](https://www.youtube.com/watch?v=huYh1jNdQOE&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=7)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/8464895)  
 [Documentation](https://www.filepicker.io/api/file/5ZdwDzOkR2G0nBEQvpwY)  
 [Resources](https://www.filepicker.io/api/file/vgEEVRRqScOhbY8l1jwx)  
 ## Web Deployment Challenge
@@ -75,12 +75,15 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 ## Searching for Data Challenge
 ## Extension Methods Challenge
 ## ASP.NET Core with Docker Challenge
-[Requirement Video](https://www.youtube.com/watch?v=xrPb4icV4s8&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=46)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/11883593)  
 [Documentation](https://www.filepicker.io/api/file/2OVeXhmtQOimEKKJG3Gh)  
 ## Git Branches Challenge
-[Requirement Video](https://www.youtube.com/watch?v=GKY0dCB00yo&list=PLLWMQd6PeGY1VcJGocm1wwtFCZUrh2sc9&index=47)  
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/11885049)  
 [Documentation](https://www.filepicker.io/api/file/asYGiOWWQoW6XurJ7YYs)  
 ## Web File Uploads
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/12257066)  
+[Documentation](https://www.filepicker.io/api/file/L5AobcydRFKzc4pXxlol)  
+[Resources](https://www.filepicker.io/api/file/i1uGEXKKQL2paxiQsNyv)  
 ## Azure DevOps Challenge
 ## Bulk File Renaming Challenge
 ## .NET Command Line Challenge
