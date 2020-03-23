@@ -88,5 +88,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/12347557)  
 [Documentation](https://www.filepicker.io/api/file/R1bxUKrSByAx4d471lrF)  
 ## Bulk File Renaming Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/12597794)  
+[Documentation](https://www.filepicker.io/api/file/FutBAMKvTDGwvgY5iuHq)  
+[Resources](https://www.filepicker.io/api/file/pgXkejrTAqdqz2C0mZlI)  
 ## .NET Command Line Challenge
 ## Sample Data Challenge
