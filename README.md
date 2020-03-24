@@ -92,4 +92,6 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Documentation](https://www.filepicker.io/api/file/FutBAMKvTDGwvgY5iuHq)  
 [Resources](https://www.filepicker.io/api/file/pgXkejrTAqdqz2C0mZlI)  
 ## .NET Command Line Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/12678686)  
+[Documentation](https://www.filepicker.io/api/file/Oo7g4o4RfiI2HXsqnBuQ)  
 ## Sample Data Challenge
