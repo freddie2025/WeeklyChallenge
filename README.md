@@ -95,3 +95,5 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/12678686)  
 [Documentation](https://www.filepicker.io/api/file/Oo7g4o4RfiI2HXsqnBuQ)  
 ## Sample Data Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/12979039)  
+[Documentation](https://www.filepicker.io/api/file/brODOjKCSyinKcfjS4xN)  
