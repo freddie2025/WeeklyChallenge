@@ -73,6 +73,10 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10773728)  
 [Documentation](https://www.filepicker.io/api/file/Qd0TEd52QQKuMVrM2K5H)  
 ## String Replacement Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10807039)  
+[Documentation](https://www.filepicker.io/api/file/ZQ7vGB8jRaNhaMp1LAi3)  
+[Resources](https://www.filepicker.io/api/file/o28WEEpkSaCD2ifhkI9w)  
+[More Resources](https://www.filepicker.io/api/file/PlaUYuJxQzSBQLo5K3Y2)  
 ## Image Manipulation Challenge
 ## Searching for Data Challenge
 ## Extension Methods Challenge
