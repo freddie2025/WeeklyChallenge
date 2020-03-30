@@ -78,6 +78,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Resources](https://www.filepicker.io/api/file/o28WEEpkSaCD2ifhkI9w)  
 [More Resources](https://www.filepicker.io/api/file/PlaUYuJxQzSBQLo5K3Y2)  
 ## Image Manipulation Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10807227)  
+[Documentation](https://www.filepicker.io/api/file/40wJX1wORJa5CdKMh2i1)  
 ## Searching for Data Challenge
 ## Extension Methods Challenge
 ## ASP.NET Core with Docker Challenge
