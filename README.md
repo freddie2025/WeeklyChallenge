@@ -81,6 +81,10 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10807227)  
 [Documentation](https://www.filepicker.io/api/file/40wJX1wORJa5CdKMh2i1)  
 ## Searching for Data Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/10807276)  
+[Documentation](https://www.filepicker.io/api/file/eSgh6yvDQASLbfRieQNz)  
+[Resources](https://www.filepicker.io/api/file/U2QOSJkT42ev89H4yyc1)  
+[More Resources](https://www.filepicker.io/api/file/QFbTkHpARLSgOlpNzJBb)  
 ## Extension Methods Challenge
 ## ASP.NET Core with Docker Challenge
 [Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/11883593)  
