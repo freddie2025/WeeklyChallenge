@@ -28,6 +28,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Documentation](https://www.filepicker.io/api/file/5ZdwDzOkR2G0nBEQvpwY)  
 [Resources](https://www.filepicker.io/api/file/vgEEVRRqScOhbY8l1jwx)  
 ## Web Deployment Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/8537078)  
+[Documentation](https://www.filepicker.io/api/file/0OKqHWJyRdC18mA8Lj6g)  
 ## Database Design Challenge
 ## Performance Evaluation Challenge
 ## FizzBuzz Challenge
