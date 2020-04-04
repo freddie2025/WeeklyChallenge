@@ -31,6 +31,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/c-weekly-challenges/lectures/8537078)  
 [Documentation](https://www.filepicker.io/api/file/0OKqHWJyRdC18mA8Lj6g)  
 ## Database Design Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8603256)  
+[Documentation](https://www.filepicker.io/api/file/z0ee4ABgSRTCb77bE2eL)  
 ## Performance Evaluation Challenge
 ## FizzBuzz Challenge
 ## Palindrome Challenge

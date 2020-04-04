@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Purchase]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[ItemName] VARCHAR(50) NOT NULL,
+	[Price] MONEY NOT NULL,
+	[PurchaseForId] INT NOT NULL
+)
