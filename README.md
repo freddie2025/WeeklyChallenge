@@ -34,6 +34,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8603256)  
 [Documentation](https://www.filepicker.io/api/file/z0ee4ABgSRTCb77bE2eL)  
 ## Performance Evaluation Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8650378)  
+[Documentation](https://www.filepicker.io/api/file/BFVVqcXCSEqxaHgdVXHu)  
 ## FizzBuzz Challenge
 ## Palindrome Challenge
 ## Prime Number Challenge
