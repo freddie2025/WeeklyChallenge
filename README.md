@@ -40,6 +40,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8710315)  
 [Documentation](https://www.filepicker.io/api/file/3ieJcLSFSuWO9Sk1sVeR)  
 ## Palindrome Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8788105)  
+[Documentation](https://www.filepicker.io/api/file/NDsCuJ9mQSO6v2xew0r0)  
 ## Prime Number Challenge
 ## Correct Change Challenge
 ## API Usage Challenge
