@@ -43,6 +43,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8788105)  
 [Documentation](https://www.filepicker.io/api/file/NDsCuJ9mQSO6v2xew0r0)  
 ## Prime Number Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8871411)  
+[Documentation](https://www.filepicker.io/api/file/gQiZ8IWTSVufVeUWT3qV)  
 ## Correct Change Challenge
 ## API Usage Challenge
 ## Word Count Challenge
