@@ -49,6 +49,8 @@ Tim Corey's weekly challenges to help keep your C# knowledge sharp.
 [Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/8950061)  
 [Documentation](https://www.filepicker.io/api/file/BrLLNktKRsuwGBfSEKIT)  
 ## API Usage Challenge
+[Requirement Video](https://www.iamtimcorey.com/courses/448006/lectures/9017589)  
+[Documentation](https://uploads.teachablecdn.com/tGlNWFOvTviUkMDg1kTo_API+Usage+Challenge.pdf)  
 ## Word Count Challenge
 ## Advanced Parameters Challenge
 ## Custom Rules Challenge
